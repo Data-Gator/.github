@@ -5,4 +5,4 @@ to helpful information!
 
 | Link | Description |
 | :---: | :---: | 
-| [Firmware Documentation](https://github.com/grwells/dg_doxygen.git) | 
+| [Firmware Documentation](https://github.com/Data-Gator/data-gator.github.io/index.html) | 
