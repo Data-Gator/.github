@@ -5,5 +5,5 @@ to helpful information!
 
 | Link | Description |
 | :---: | :---: | 
-| [Doxygen Firmware Documentation](https://data-gator.github.io/) | 
+| [Doxygen Firmware Documentation](https://data-gator.github.io/doxygen_firmware_docs/) | 
 | [Hardware Documentation](https://data-gator.github.io/Hardware)|
