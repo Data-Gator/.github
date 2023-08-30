@@ -14,7 +14,7 @@ to helpful information!
 
 # What is a Data Gator?
 
-The Data Gator is an embedded system solution for wireless sensor integration and network extension. In the diagram below, DGs serve as _**[Aggregators](link to aggregators description here)**_, collecting data from sensors and relaying it to [_**Gateways**_](link to gateway description here) which store the data in a cloud database. From there the data is available to the user.
+The Data Gator is an embedded system solution for wireless sensor integration and network extension. In the diagram below, DGs serve as [_**Aggregators**_](https://github.com/Project-VineHeart/scarecro#aggregator), collecting data from sensors and relaying it to [_**Gateways**_](https://github.com/Project-VineHeart/scarecro#gateway) which store the data in a cloud database. From there the data is available to the user.
 
 ![SCARECRO System Architecture](/profile/images/diagram_overview.png)
 
