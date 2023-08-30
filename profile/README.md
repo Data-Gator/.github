@@ -7,4 +7,4 @@ to helpful information!
 | :---: | :---: | 
 | [Doxygen Firmware Documentation](https://data-gator.github.io/doxygen_firmware_docs/) | 
 | [Hardware Documentation](https://data-gator.github.io/Hardware)|
-| [Legacy Documentation](./profile/documentation/README.md) | 
+| [Legacy Documentation](/profile/documentation/README.md) | 
