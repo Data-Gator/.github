@@ -7,9 +7,9 @@ to helpful information!
 | Link | Description |
 | :---: | :---: | 
 | [data-gator.github.io](https://data-gator.github.io) | Main documentation, go here! | 
+| [Data Gator Firmware + User/Dev Docs](https://github.com/Data-Gator/data-gator) | Source code, firmware releases, and documentation for users/developers. |
 | [Doxygen Firmware Documentation](https://data-gator.github.io/doxygen_firmware_docs/) | Documents firmware API and configuration variables used in production firmware. |
 | [Hardware Documentation](https://data-gator.github.io/Hardware)| Documents hardware components, manufacturing, and assembly process. Also has design files. |
-| [Legacy Documentation](/profile/documentation/README.md) | Legacy documentation for the project. Under revision and restructuring. Come here to find high level documentation (flow charts, etc). |
 
 
 # What is a Data Gator?
@@ -18,7 +18,3 @@ The Data Gator is an embedded system solution for wireless sensor integration an
 
 ![SCARECRO System Architecture](/profile/images/diagram_overview.png)
 
-
-#### What does it look like?
-
-_**TODO: images of DG here**_
